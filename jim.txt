@@ -1,0 +1,2 @@
+def fun():
+    print("Jim 做了很多工作")
